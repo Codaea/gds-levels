@@ -4,22 +4,16 @@ layout: home
 
 hero:
   name: "IWM Student Levels"
-  text: "Student Made Levels In I Wanna Maker"
+  text: ""
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View Levels!
+      link: /levels/2024/index
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 2024 Levels
+    details: Hmm, Level's These Are
+    link: /levels/2024/index
 ---
 
