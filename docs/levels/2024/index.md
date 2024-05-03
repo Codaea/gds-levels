@@ -1,5 +1,7 @@
 # 2024 Levels
 
+## [Download Levels](https://github.com/Codaea/gds-levels/releases/download/2024/levels-24.zip)
+
 ## Conveyor Adventure
 <img src="./media/conveyor-adventure.png" width="400">
 
