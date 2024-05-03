@@ -8,14 +8,14 @@ It is not always easy
 some hurt some help out
 
 ## Crusher Chaos
-<img src="./media/crusher-chaos.gif" width="400">
+<img src="./media/crusher-chaos.png" width="400">
 
 > Avoid the crushers  
 It is not always easy  
 some hurt some help out
 
 ## Tower Ascend
-<img src="./media/tower-ascend.gif" width="400">
+<img src="./media/tower-ascend.png" width="400">
 
 > From the base to top  
 Ascend the tower quickly  
@@ -29,14 +29,14 @@ the amount of moving things
 falling birds aren't fun
 
 ## Super Spooky
-<img src="./media/super-spooky.gif" width="400">
+<img src="./media/super-spooky.png" width="400">
 
 > Level is spooky.  
 Level is super spooky.  
 Determination.
 
 ## Gravity Mine
-<img src="./media/gravity-mine.gif" width="400">
+<img src="./media/gravity-mine.png" width="400">
 
 > Gravity is fun  
 Arrows make you fly away  
@@ -50,21 +50,21 @@ but don't fall or hit the spikes
 for an easy win
 
 ## UltraBird
-<img src="./media/ultrabird.gif" width="400">
+<img src="./media/ultrabird.png" width="400">
 
 > Teleports are fuel  
 The wanna makers are dead  
 Birdmachine is full
 
 ## Cyber Ninja Headquarters
-<img src="./media/cyber-ninja-headquarters.gif" width="400">
+<img src="./media/cyber-ninja-headquarters.png" width="400">
 
 > I jumped over spikes  
 And fought the techno ninjas.  
 Was pretty cool, man.
 
 ## Gravity Chaos
-<img src="./media/gravity-chaos.gif" width="400">
+<img src="./media/gravity-chaos.png" width="400">
 
 > gravity changes  
 and the platforms go spinning  
@@ -78,7 +78,7 @@ It has big number of springs
 Very fun you will like
 
 ## CoolLevel3.2
-<img src="./media/cool-level-32.gif" width="400">
+<img src="./media/cool-level-32.png" width="400">
 
 > Falling blocks will come,  
 and fall on your little head.  
@@ -120,7 +120,7 @@ You're not very tall at all.
 You find many spots.  
 
 ## The Exploding Pyramid
-<img src="./media/the-exploding-pyramid.gif" width="400">
+<img src="./media/the-exploding-pyramid.png" width="400">
 
 > Pyramid explodes  
 you have to get to the top  
