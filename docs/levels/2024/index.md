@@ -5,9 +5,9 @@
 ## Conveyor Adventure
 <img src="./media/conveyor-adventure.png" width="400">
 
-> Avoid the crushers  
-It is not always easy  
-some hurt some help out
+> "Conveyors move  
+Players will jump and bounce high  
+Miss the ground and fall
 
 ## Crusher Chaos
 <img src="./media/crusher-chaos.png" width="400">
@@ -127,3 +127,38 @@ You find many spots.
 > Pyramid explodes  
 you have to get to the top  
 Some make it, some not
+
+## Desert
+<img src="./media/desert.png" width="400">
+
+> Beware. or else.  
+this temple. will be come.  
+refrida rador.
+
+## Scurry Spikes
+<img src="./media/scurry-spikes.png" width="400">
+
+> Watch out for the spikes  
+They will follow where you go  
+ Scurry to safety
+
+## Up, Down
+<img src="./media/up-down.png" width="400">
+
+> Gravity is good.  
+Gravity is bad. Sometimes  
+it is both. Good luck.
+
+## WALL JUMP
+<img src="./media/wall-jump.png" width="400">
+
+> wall jumping is key.  
+watch out for the spikes and saws.  
+keep on wall jumping.
+
+## Ready for a level?
+<img src="./media/ready-for-a-level.png" width="400">
+
+> my level is fun :\).
+you may suffer, you may not.  
+you decide that though.
